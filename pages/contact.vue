@@ -1,3 +1,4 @@
+<template>
 <div>
 <form data-netlify="true" action="/" method="POST" class="grid grid-cols-1 gap-y-6 grid-cols-2 gap-x-4 sm:gap-x-8" name="Contact">
             <div>
@@ -15,3 +16,4 @@
             </div>
           </form>
 </div>
+</template>
